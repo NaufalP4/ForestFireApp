@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ForestFireApp",
+    "name": "Forest Fire",
     "slug": "ForestFireApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/fire-icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
